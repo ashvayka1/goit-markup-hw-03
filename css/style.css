@@ -271,12 +271,8 @@ body {
 }
 .project-item {
   margin-bottom: 30px;
-  /* border: 1px solid #ececec; */
 }
-/* .project-item:not(:last-child) {
-  margin-right: 30px;
-  margin-bottom: 30px;
-} */
+
 /* =================BUTTON=========== */
 
 .hero .hero-btn {
