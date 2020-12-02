@@ -29,7 +29,6 @@ img {
   display: block;
 }
 body {
-  width: 1600px;
   background-color: var(--white-color);
   color: var(--primary-text-color);
   font-family: 'Roboto';
