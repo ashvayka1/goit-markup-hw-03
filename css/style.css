@@ -124,6 +124,7 @@ body {
   line-height: 1.36;
   margin-bottom: 30px;
   text-align: center;
+  text-transform: uppercase;
 }
 
 .site-nav .current {
@@ -291,7 +292,6 @@ body {
 }
 
 .parts-list .portfolio-btn {
-  border-color: currentcolor;
   border-radius: 4px;
   background-color: #f5f4fa;
   color: var(--title-text-color);
@@ -300,6 +300,7 @@ body {
   line-height: 1.63;
   cursor: pointer;
   padding: 6px 22px;
+  border: 0;
 }
 
 .button:hover,
